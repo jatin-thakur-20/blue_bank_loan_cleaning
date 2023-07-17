@@ -1,1 +1,2 @@
-# blue_bank_loan_cleaning
+This code is used for a data describing various attributes for the users who have applied for a loan at the Blue Bank. The goal of this analysis is to create a report of borrowers who may have issues paying back the loan. 
+For this purpose, data has to be cleaned and transformed into something visualizable format, which will be done using tableau. The link to the same is https://public.tableau.com/app/profile/jatin.thakur/viz/BlueBankLoanAnalysis_16892704660470/Dashboard1
